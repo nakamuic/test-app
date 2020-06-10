@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5619f1f7-9a31-4114-8b77-b58462114beb/resourceGroups/ic-AppService/providers/Microsoft.Web/sites/nakamuic-node",
+    "appService.deploySubpath": "."
+}
